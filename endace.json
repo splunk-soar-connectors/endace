@@ -32,7 +32,7 @@
         "verify_cert": {
             "description": "Verify Server Certificate",
             "data_type": "boolean",
-            "default": false,
+            "default": true,
             "order": 1
         },
         "username": {

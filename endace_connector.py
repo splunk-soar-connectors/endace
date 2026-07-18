@@ -732,7 +732,7 @@ class EndaceConnector(BaseConnector):
         config = self.get_config()
 
         self.server = config['server']
-        self.verify_cert = config.get('verify_cert', False)
+        self.verify_cert = config.get('verify_cert', True)
         self.username = config['username']
         self.password = config['password']
         max_pcap_size = config['max_pcap_size']
