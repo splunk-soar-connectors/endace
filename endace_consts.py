@@ -1,7 +1,7 @@
 # --
 # File: endace_consts.py
 #
-# Copyright (C) Endace Technology Limited, 2018-2021
+# Copyright (C) Endace Technology Limited, 2018-2026
 #
 # Licensed under Apache 2.0 (https://www.apache.org/licenses/LICENSE-2.0.txt)
 #
