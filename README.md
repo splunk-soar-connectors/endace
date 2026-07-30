@@ -1,7 +1,7 @@
 # Endace
 
 Publisher: Endace Technology Ltd <br>
-Connector Version: 2.0.0 <br>
+Connector Version: 1.0.0 <br>
 Product Vendor: Endace <br>
 Product Name: Endace <br>
 Minimum Product Version: 4.9.39220
