@@ -359,7 +359,7 @@ class EndaceConnector(BaseConnector):
 
         # Updating report data with vault details
         if success:
-            success, message, info = Vault.vault_info(vault_id, file_name, container_id, trace=True)
+            success, message, _info = Vault.vault_info(vault_id, file_name, container_id, trace=True)
             vault_details[phantom.APP_JSON_VAULT_ID] = vault_id
             vault_details["filename"] = file_name
             if success:
