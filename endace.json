@@ -15,9 +15,9 @@
         }
     ],
     "license": "Copyright (C) Endace Technology Limited, 2018-2026",
-    "app_version": "1.0.0",
+    "app_version": "2.0.0",
     "python_version": "3.9, 3.13",
-    "utctime_updated": "2026-07-30T20:52:57.586488Z",
+    "utctime_updated": "2021-08-09T09:44:39.000000Z",
     "package_name": "phantom_endace",
     "main_module": "endace_connector.py",
     "min_phantom_version": "4.9.39220",
